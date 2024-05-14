@@ -13,9 +13,11 @@ namespace kütüphane_veri_tabanı_01
 {
     public partial class Form1 : Form
     {
-        public Form1()
+        string kimlik;
+        public Form1(string id)
         {
             InitializeComponent();
+            kimlik = id;
         }
         OleDbConnection baglanti = new OleDbConnection("provider=microsoft.jet.oledb.4.0;Data source=kutuphane.mdb");
 
@@ -109,7 +111,15 @@ namespace kütüphane_veri_tabanı_01
             textBox3.Text = dataGridView1.CurrentRow.Cells[3].Value.ToString();
             textBox4.Text = dataGridView1.CurrentRow.Cells[4].Value.ToString();
             textBox5.Text = dataGridView1.CurrentRow.Cells[5].Value.ToString();
+        
           
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form4 kitap = new Form4(kimlik);
+            kitap.Show();
+            this.Hide();
         }
     }
 }

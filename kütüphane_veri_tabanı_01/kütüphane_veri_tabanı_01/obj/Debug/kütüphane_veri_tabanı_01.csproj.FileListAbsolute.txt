@@ -10,3 +10,27 @@ C:\Users\Öğrenci\Desktop\visual studio projeleri\kütüphane_veri_tabanı_01\k
 C:\Users\Öğrenci\Desktop\visual studio projeleri\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\obj\Debug\kütüphane_veri_tabanı_01.Form2.resources
 C:\Users\Öğrenci\Desktop\visual studio projeleri\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\obj\Debug\kütüphane_veri_tabanı_01.Form3.resources
 C:\Users\Öğrenci\Desktop\visual studio projeleri\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\obj\Debug\kütüphane_veri_tabanı_01.Form4.resources
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-main\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\bin\Debug\kütüphane_veri_tabanı_01.exe.config
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-main\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\obj\Debug\kütüphane_veri_tabanı_01.exe
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-main\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\obj\Debug\kütüphane_veri_tabanı_01.pdb
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-main\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\bin\Debug\kütüphane_veri_tabanı_01.exe
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-main\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\bin\Debug\kütüphane_veri_tabanı_01.pdb
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-main\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\obj\Debug\kütüphane_veri_tabanı_01.csprojResolveAssemblyReference.cache
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-main\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\obj\Debug\kütüphane_veri_tabanı_01.Form1.resources
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-main\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\obj\Debug\kütüphane_veri_tabanı_01.Form2.resources
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-main\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\obj\Debug\kütüphane_veri_tabanı_01.Form3.resources
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-main\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\obj\Debug\kütüphane_veri_tabanı_01.Form4.resources
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-main\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\obj\Debug\kütüphane_veri_tabanı_01.Properties.Resources.resources
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-main\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\obj\Debug\kütüphane_veri_tabanı_01.csproj.GenerateResource.Cache
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-2\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\bin\Debug\kütüphane_veri_tabanı_01.exe.config
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-2\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\obj\Debug\kütüphane_veri_tabanı_01.exe
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-2\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\obj\Debug\kütüphane_veri_tabanı_01.pdb
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-2\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\bin\Debug\kütüphane_veri_tabanı_01.exe
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-2\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\bin\Debug\kütüphane_veri_tabanı_01.pdb
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-2\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\obj\Debug\kütüphane_veri_tabanı_01.csprojResolveAssemblyReference.cache
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-2\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\obj\Debug\kütüphane_veri_tabanı_01.Form1.resources
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-2\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\obj\Debug\kütüphane_veri_tabanı_01.Form2.resources
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-2\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\obj\Debug\kütüphane_veri_tabanı_01.Form3.resources
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-2\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\obj\Debug\kütüphane_veri_tabanı_01.Form4.resources
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-2\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\obj\Debug\kütüphane_veri_tabanı_01.Properties.Resources.resources
+C:\Users\Öğrenci\Downloads\kutuphane_vt-main\kutuphane_vt-2\kütüphane_veri_tabanı_01\kütüphane_veri_tabanı_01\obj\Debug\kütüphane_veri_tabanı_01.csproj.GenerateResource.Cache

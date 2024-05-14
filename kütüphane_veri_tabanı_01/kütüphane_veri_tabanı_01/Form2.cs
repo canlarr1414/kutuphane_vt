@@ -29,22 +29,27 @@ namespace kütüphane_veri_tabanı_01
 
         private void button4_Click(object sender, EventArgs e)
         {
+            bool giris_basarilimi = false;
             string sorgu = "Select * FROM kullanıcı";
             OleDbCommand komut = new OleDbCommand(sorgu,baglanti);
             baglanti.Open();
 
             OleDbDataReader okuma = komut.ExecuteReader();
-            okuma.Read();
 
-            if (okuma.GetValue(1).ToString() == textBox1.Text && okuma.GetValue(4).ToString() == textBox2.Text)
+            while (okuma.Read())
             {
-                Form1 form1 = new Form1();
-                this.Hide();
-                form1.Show();
+                if (okuma.GetValue(1).ToString() == textBox1.Text && okuma.GetValue(4).ToString() == textBox2.Text)
+                {
+                    giris_basarilimi = true;
+                    Form1 form1 = new Form1(okuma.GetValue(0).ToString());
+                    this.Hide();
+                    form1.Show();
+                }
             }
-            else
+
+            if (giris_basarilimi == false)
             {
-                MessageBox.Show("kullanıcı ve parola yanlış");
+                MessageBox.Show("Kullanıcı adı veya parola yanlış");
             }
             baglanti.Close();
         }
@@ -56,7 +61,14 @@ namespace kütüphane_veri_tabanı_01
 
         private void button1_Click(object sender, EventArgs e)
         {
+            
+        }
 
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            Form5 frm5 = new Form5();
+            frm5.Show();
+            this.Hide();
         }
     }
 }
